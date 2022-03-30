@@ -1,5 +1,11 @@
 # @eth-optimism/integration-tests
 
+## 0.5.9
+
+### Patch Changes
+
+- 482a105: Bump to hardhat@2.9.1
+
 ## 0.5.8
 
 ### Patch Changes

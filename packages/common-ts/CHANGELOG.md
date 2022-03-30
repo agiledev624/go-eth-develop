@@ -1,5 +1,11 @@
 # @eth-optimism/common-ts
 
+## 0.2.5
+
+### Patch Changes
+
+- 482a105: Have BaseServiceV2 throw when options are undefined
+
 ## 0.2.4
 
 ### Patch Changes

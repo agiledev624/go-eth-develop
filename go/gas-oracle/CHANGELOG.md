@@ -1,5 +1,11 @@
 # @eth-optimism/gas-oracle
 
+## 0.1.10
+
+### Patch Changes
+
+- 482a105: Fixes a bug that would cause the service to crash on startup if the RPC URLs were not immediately available
+
 ## 0.1.9
 
 ### Patch Changes

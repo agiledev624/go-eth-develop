@@ -1,5 +1,15 @@
 # @eth-optimism/message-relayer
 
+## 0.4.3
+
+### Patch Changes
+
+- 482a105: Bump to hardhat@2.9.1
+- Updated dependencies [482a105]
+- Updated dependencies [482a105]
+  - @eth-optimism/common-ts@0.2.5
+  - @eth-optimism/sdk@1.0.3
+
 ## 0.4.2
 
 ### Patch Changes
