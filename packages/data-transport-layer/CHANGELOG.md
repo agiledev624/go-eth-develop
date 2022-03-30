@@ -1,5 +1,15 @@
 # data transport layer
 
+## 0.5.24
+
+### Patch Changes
+
+- 482a105: Bump to hardhat@2.9.1
+- Updated dependencies [482a105]
+- Updated dependencies [482a105]
+  - @eth-optimism/common-ts@0.2.5
+  - @eth-optimism/contracts@0.5.19
+
 ## 0.5.23
 
 ### Patch Changes

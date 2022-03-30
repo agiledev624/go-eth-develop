@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.5.19
+
+### Patch Changes
+
+- 482a105: Bump to hardhat@2.9.1
+
 ## 0.5.18
 
 ### Patch Changes

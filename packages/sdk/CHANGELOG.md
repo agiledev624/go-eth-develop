@@ -1,5 +1,13 @@
 # @eth-optimism/sdk
 
+## 1.0.3
+
+### Patch Changes
+
+- 482a105: Bump to hardhat@2.9.1
+- Updated dependencies [482a105]
+  - @eth-optimism/contracts@0.5.19
+
 ## 1.0.2
 
 ### Patch Changes

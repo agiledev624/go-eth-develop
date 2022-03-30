@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.5.16
+
+### Patch Changes
+
+- 482a105: Adds a flag for changing the genesis fetch timeout
+
 ## 0.5.15
 
 ### Patch Changes
